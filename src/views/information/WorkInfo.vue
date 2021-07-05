@@ -1,15 +1,15 @@
 <template>
-  <div class="home">
-    首页
-  </div>
+<div>
+  考勤信息
+</div>
 </template>
 
 <script>
 export default {
-  name: 'Home'
+  name: 'WorkInfo'
+
 }
 </script>
 
 <style lang="scss" scoped>
-
 </style>

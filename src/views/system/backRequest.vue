@@ -1,15 +1,15 @@
 <template>
-  <div class="home">
-    首页
+  <div>
+    后台请求
   </div>
 </template>
 
 <script>
 export default {
-  name: 'Home'
+ name: 'BackRequest'
+
 }
 </script>
 
 <style lang="scss" scoped>
-
 </style>
