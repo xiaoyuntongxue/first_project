@@ -1,7 +1,5 @@
 import Cookies from 'js-cookie'
 
-// const Token = ''
-
 // 获取Token
 export function getToken() {
   return Cookies.get('Token')
